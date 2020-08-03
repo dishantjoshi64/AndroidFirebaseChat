@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_messaging"
+            android:title="Start Chat" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news_icon"
+            android:title="Daily News" />
+
+        <!-- <item
+             android:id="@+id/nav_weather"
+             android:icon="@drawable/ic_weather_icon"
+             android:title="Weather Report" />-->
+
+        <item
+            android:id="@+id/nav_to_do_list"
+            android:icon="@drawable/todo"
+            android:title="To Do List" />
+
+        <item
+            android:id="@+id/nav_chatBot"
+            android:icon="@mipmap/ic_robot"
+            android:title="ChatBot" />
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"/>
+    </group>
+
+
+</menu>

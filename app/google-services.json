@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "321412193039",
+    "firebase_url": "https://chatassistant-b744e.firebaseio.com",
+    "project_id": "chatassistant-b744e",
+    "storage_bucket": "chatassistant-b744e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321412193039:android:d26ecf3729ec1db1",
+        "android_client_info": {
+          "package_name": "com.example.mr.chatassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321412193039-7s5gko3big1g6k6h9ocvcpf8tr9abciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-F8Gkbh_3pEA45zfsgqCAVF7RGX0HQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321412193039:android:651efad01f7aa6de",
+        "android_client_info": {
+          "package_name": "com.example.mr.projectchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321412193039-7s5gko3big1g6k6h9ocvcpf8tr9abciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-F8Gkbh_3pEA45zfsgqCAVF7RGX0HQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321412193039:android:1b17736f3a42b197",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321412193039-7s5gko3big1g6k6h9ocvcpf8tr9abciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-F8Gkbh_3pEA45zfsgqCAVF7RGX0HQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321412193039:android:18d1d5f2710fa79f",
+        "android_client_info": {
+          "package_name": "com.mr.chatassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321412193039-7s5gko3big1g6k6h9ocvcpf8tr9abciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-F8Gkbh_3pEA45zfsgqCAVF7RGX0HQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
